@@ -1,3 +1,3 @@
 ### Hi there 👋
 
-https://github-readme-stats.vercel.app/api?username=lucklilili
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lucklilili&show_icons=true&theme=radical)
